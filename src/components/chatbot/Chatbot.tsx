@@ -19,7 +19,7 @@ DIRECTRICES:
 - Proporciona respuestas concisas sobre el sector financiero español.
 - Si la pregunta es compleja o el usuario quiere una asesoría directa, SIEMPRE redirige a:
   * Teléfono: 620 359 361
-  * Email: diealfdie@gmail.com
+  * Email: diealfadie44@gmail.com
 - Menciona que Dalmad opera en toda España.
 - Si el usuario pregunta por "Dalmad", explica que somos expertos en conseguir las mejores condiciones bancarias negociando por ellos.
 - No inventes leyes, si no sabes algo, redirige al contacto humano.`;
@@ -127,7 +127,7 @@ export default function Chatbot() {
               <a href="tel:620359361" className="text-[10px] bg-slate-50 border border-slate-200 px-3 py-1 rounded-full text-slate-500 flex items-center gap-1">
                 <Phone size={10} /> 620359361
               </a>
-              <a href="mailto:diealfdie@gmail.com" className="text-[10px] bg-slate-50 border border-slate-200 px-3 py-1 rounded-full text-slate-500 flex items-center gap-1">
+              <a href="mailto:diealfadie44@gmail.com" className="text-[10px] bg-slate-50 border border-slate-200 px-3 py-1 rounded-full text-slate-500 flex items-center gap-1">
                 <Mail size={10} /> Email
               </a>
             </div>

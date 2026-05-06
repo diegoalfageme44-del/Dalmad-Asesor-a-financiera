@@ -45,7 +45,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center text-gold"><Mail size={14} /></div>
-                <a href="mailto:diealfdie@gmail.com" className="hover:text-gold transition-colors text-xs lg:text-sm">diealfdie@gmail.com</a>
+                <a href="mailto:diealfadie44@gmail.com" className="hover:text-gold transition-colors text-xs lg:text-sm">diealfadie44@gmail.com</a>
               </li>
               <li className="text-[10px] uppercase tracking-widest text-slate-500 pt-4">Atención en toda España</li>
             </ul>

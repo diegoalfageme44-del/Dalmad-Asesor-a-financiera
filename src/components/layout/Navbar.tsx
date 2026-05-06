@@ -100,8 +100,8 @@ export default function Navbar() {
                 <a href="tel:620359361" className="flex items-center justify-center gap-2 text-slate-600">
                   <Phone size={18} /> 620 359 361
                 </a>
-                <a href="mailto:diealfdie@gmail.com" className="flex items-center justify-center gap-2 text-slate-600">
-                  <Mail size={18} /> diealfdie@gmail.com
+                <a href="mailto:diealfadie44@gmail.com" className="flex items-center justify-center gap-2 text-slate-600">
+                  <Mail size={18} /> diealfadie44@gmail.com
                 </a>
               </div>
             </div>

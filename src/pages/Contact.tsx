@@ -53,7 +53,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-1">Email</p>
-                      <a href="mailto:diealfdie@gmail.com" className="text-xl font-bold text-navy hover:text-gold transition-colors break-all">diealfdie@gmail.com</a>
+                      <a href="mailto:diealfadie44@gmail.com" className="text-xl font-bold text-navy hover:text-gold transition-colors break-all">diealfadie44@gmail.com</a>
                     </div>
                   </div>
 
@@ -93,7 +93,7 @@ export default function Contact() {
                       <Send size={40} />
                     </div>
                     <h2 className="text-3xl font-serif font-bold text-navy mb-4 italic">¡Mensaje enviado con éxito!</h2>
-                    <p className="text-slate-500">Hemos recibido sus datos de contacto diealfdie@gmail.com. Un asesor se pondrá en contacto con usted en breve.</p>
+                    <p className="text-slate-500">Hemos recibido sus datos de contacto diealfadie44@gmail.com. Un asesor se pondrá en contacto con usted en breve.</p>
                     <button 
                       onClick={() => setFormState('idle')}
                       className="mt-8 text-gold font-bold hover:underline"
